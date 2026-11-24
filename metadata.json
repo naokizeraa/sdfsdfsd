@@ -1,0 +1,6 @@
+{
+  "name": "100 Receitas Naturais",
+  "description": "Guia digital em PDF com 100 receitas naturais e caseiras utilizando ingredientes acessíveis para sua rotina de cuidados e bem-estar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
